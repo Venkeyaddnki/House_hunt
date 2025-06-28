@@ -21,7 +21,7 @@ export default function Home() {
     <hr />
     <img src={img1} alt="Home" style={{width:"100%", height:'550px'}}/>
       <div>
-        <p>House is a place where one stay happily without fear and a satisfaction</p>
+        <p>House is a place where one stay happily without fear and satisfaction</p>
         Dont know where to stay joins us and find a house:
       <Link to="/register">
             
