@@ -29,12 +29,3 @@ HouseHunt is a full-featured rental property management system built using React
 
 ---
 
-## 🧱 Tech Stack
-
-- React.js (Frontend)
-- Bootstrap / Material UI (Styling)
-- JavaScript + localStorage (Logic & Storage)
-- (Planned) Node.js + Express.js + MongoDB for Backend
-
----
-
