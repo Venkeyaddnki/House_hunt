@@ -7,7 +7,7 @@ HouseHunt is a full-featured rental property management system built using React
 🎥 View the working demo here:  
 🔗 https://drive.google.com/drive/folders/1oq6c_-OUOA9mehLLo9rq79qva31LJf7S?usp=sharing
 
-(https://github.com/user-attachments/assets/5a9f8fcd-4706-4167-81d3-4a48ff677fa1)
+[I](https://github.com/user-attachments/assets/5a9f8fcd-4706-4167-81d3-4a48ff677fa1)
 ---
 
 ## 👥 User Roles & Features
