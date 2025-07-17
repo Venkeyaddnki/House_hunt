@@ -8,7 +8,7 @@ HouseHunt is a full-featured rental property management system built using React
 🔗 https://drive.google.com/drive/folders/1oq6c_-OUOA9mehLLo9rq79qva31LJf7S?usp=sharing
 
 <video width="100%" height="auto" controls>
-  <source src="video demonstration/Demo_video.mp4" type="video/mp4">
+  <source src="https://raw.githubusercontent.com/venkeyaddnki/House_hunt/main/video-demonstation/demo_video.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
