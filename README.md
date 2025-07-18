@@ -28,3 +28,65 @@ https://github.com/user-attachments/assets/95b53d98-23a2-402c-a28f-c95314cf6280
 - View and monitor users, bookings, and properties
 
 ---
+## ⚙️ Getting Started
+
+Follow these steps to run the project locally on your machine:
+
+### 🧰 Prerequisites
+
+- Node.js v18 or higher
+- MongoDB (local or MongoDB Atlas)
+- Git (optional, for cloning)
+
+---
+
+### 1️⃣ Backend Setup
+
+1. Open a terminal and navigate to the backend directory:
+
+```bash
+cd backend
+
+2. Install dependencies:
+
+
+
+npm install
+
+3. Create a .env file inside the backend folder and add:
+
+
+
+PORT=5000
+MONGO_URI=your_mongodb_connection_string
+
+4. Start the backend server:
+
+
+
+npm start
+
+
+---
+
+2️⃣ Frontend Setup
+
+1. Open a new terminal and navigate to the frontend directory:
+
+
+
+cd frontend
+
+2. Install frontend dependencies:
+
+
+
+npm install
+
+3. Start the React development server:
+
+
+
+npm start
+
+
