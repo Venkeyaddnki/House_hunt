@@ -53,7 +53,7 @@ MONGO_URI=your_mongodb_connection_string
 Then run:
 
 ```bash
-npm run dev
+npm start
 ```
 
 ## 3. Setup Frontend
