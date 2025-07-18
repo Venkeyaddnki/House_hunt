@@ -28,65 +28,36 @@ https://github.com/user-attachments/assets/95b53d98-23a2-402c-a28f-c95314cf6280
 - View and monitor users, bookings, and properties
 
 ---
-## ⚙️ Getting Started
 
-Follow these steps to run the project locally on your machine:
+🛠️ How to Run the Project
 
-### 🧰 Prerequisites
+1. Clone the repository
 
-- Node.js v18 or higher
-- MongoDB (local or MongoDB Atlas)
-- Git (optional, for cloning)
+git clone https://github.com/yourusername/househunt.git
+cd househunt
 
----
-
-### 1️⃣ Backend Setup
-
-1. Open a terminal and navigate to the backend directory:
-
+2. Setup Backend
 
 cd backend
-
-2. Install dependencies:
-
-
-
 npm install
 
-3. Create a .env file inside the backend folder and add:
-
-
+Create a .env file inside the backend folder and add this:
 
 PORT=5000
 MONGO_URI=your_mongodb_connection_string
+JWT_SECRET=your_secret_key
 
-4. Start the backend server:
-
-
+Then start the backend server:
 
 npm start
 
+3. Setup Frontend
 
----
-
-2️⃣ Frontend Setup
-
-1. Open a new terminal and navigate to the frontend directory:
-
-
+Open a new terminal window and run:
 
 cd frontend
-
-2. Install frontend dependencies:
-
-
-
 npm install
-
-3. Start the React development server:
-
-
-
 npm start
 
-
+The frontend will run on http://localhost:3000
+The backend will run on http://localhost:5000
