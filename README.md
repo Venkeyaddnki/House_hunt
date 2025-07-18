@@ -27,37 +27,41 @@ https://github.com/user-attachments/assets/95b53d98-23a2-402c-a28f-c95314cf6280
 - Approve/disapprove owner registrations
 - View and monitor users, bookings, and properties
 
----
+### How to run 
 
-🛠️ How to Run the Project
-## Clone the repository
+## 1. Clone the Repository
 
+```bash
 git clone https://github.com/yourusername/househunt.git
-
 cd househunt
+```
 
-## Setup Backend
+## 2. Setup Backend
 
+```bash
 cd backend
 npm install
+```
 
-Create a .env file inside the backend folder and add this:
+Create a `.env` file inside the backend directory and add the following:
 
+```env
 PORT=5000
 MONGO_URI=your_mongodb_connection_string
-JWT_SECRET=your_secret_key
+```
 
-Then start the backend server:
+Then run:
 
-npm start
+```bash
+npm run dev
+```
 
-## Setup Frontend
+## 3. Setup Frontend
 
-Open a new terminal window and run:
-
-cd frontend
+```bash
+cd ../frontend
 npm install
 npm start
+```
 
-The frontend will run on http://localhost:3000
-The backend will run on http://localhost:5000
+---
