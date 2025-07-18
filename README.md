@@ -30,13 +30,13 @@ https://github.com/user-attachments/assets/95b53d98-23a2-402c-a28f-c95314cf6280
 ---
 
 🛠️ How to Run the Project
-
-1. Clone the repository
+## Clone the repository
 
 git clone https://github.com/yourusername/househunt.git
+
 cd househunt
 
-2. Setup Backend
+## Setup Backend
 
 cd backend
 npm install
@@ -51,7 +51,7 @@ Then start the backend server:
 
 npm start
 
-3. Setup Frontend
+## Setup Frontend
 
 Open a new terminal window and run:
 
