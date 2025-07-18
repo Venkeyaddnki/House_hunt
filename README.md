@@ -44,7 +44,7 @@ Follow these steps to run the project locally on your machine:
 
 1. Open a terminal and navigate to the backend directory:
 
-```bash
+
 cd backend
 
 2. Install dependencies:
